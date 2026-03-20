@@ -678,5 +678,20 @@
 		"description": "Cyborgs are deployed to the battlefield of this planet, leading their Automaton armies.",
 		"galacticEffectId": 1361,
 		"name": "CYBORGS"
+	},
+	"1373": {
+    "galacticEffectId": 1373,
+    "name": "URGENT LIBERATION",
+    "description": "This planet requires urgent liberation."
+	},
+	"1379": {
+    	"galacticEffectId": 1379,
+	    "name": "APPROPRIATORS (Enemies)",
+    	"description": "Illuminate Appropriators are active on this planet."
+	},
+	"1380": {
+    	"galacticEffectId": 1380,
+    	"name": "EXOSTORM",
+    	"description": "Severe atmospheric disturbance reduces visibility across the planet."
 	}
 }
